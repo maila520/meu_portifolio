@@ -71,6 +71,11 @@ const projects = [
         title: 'Site de Turismo – Desafio Acadêmico',
         description: 'Site com informações de destinos turísticos, incluindo presença de banheiros, restaurantes próximos e custo estimado da visita, representado com ícones de moeda para fácil visualização.',
         link: 'https://github.com/maila520/bootcamp-trabalho-final-Maila'
+    },
+    {
+        title: 'Site loja WeHope',
+        description: 'Site para uma loja de semijoias, desenvolvido com HTML, CSS e JavaScript. O site apresenta uma navegação intuitiva e redirecionamento direto para o WhatsApp, facilitando a finalização das compras de forma prática e pessoal',
+        link: 'https://github.com/maila520/minha-loja-wehope'
     }
 ];
 
